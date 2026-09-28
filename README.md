@@ -12,7 +12,7 @@ Para calcular o custo estimado:
 
 custoMensal = consumoMensal × valorKwh
 
-Neste projeto, foi utilizado o valor fixo de R$ 0,82 por kWh como exemplo. R💲
+Neste projeto, foi utilizado o valor fixo de R$ 0,82 por kWh. R💲
 
 # Para executar o programa
 O programa solicitará:
